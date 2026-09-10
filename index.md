@@ -1,13 +1,14 @@
-# Privacy Policy — PPSC Quiz
+# Privacy Policy — PPSC Archives
 
 **Effective date:** 6 September 2026
-**App:** PPSC Quiz (package: `com.ppscquiz.app`)
-**Contact:** `cinamullah@gmail.com`
+**App:** PPSC Archives (package: `com.ppscarchives.inam`)
+**Contact:** `[cinamullah@gmail.com]`
 
 ## 1. Overview
 
-PPSC Quiz is an offline quiz-preparation application for PPSC and other
-Pakistani competitive examinations. The app is designed to work **without
+PPSC Archives is an offline quiz-preparation application for PPSC and other
+Pakistani competitive examinations. Learn 76,000+ MCQs with spaced
+repetition. The app is designed to work **without
 collecting any personal data**. This policy explains exactly what the app
 does and does not do with information on your device.
 
@@ -31,10 +32,12 @@ it never leaves the device:
 - **Quiz content** — the question bank ships inside the app as an
   AES-256-encrypted database (SQLCipher). It is decrypted only in
   app-private storage that the Android OS restricts to the app itself.
-- **Your progress** — answers, scores, favourites, difficulty preference, and
-  review schedule are stored in app-private storage and optionally in local
-  device backups only if you create them from inside the app and share them
-  yourself.
+- **Your progress** — answers, scores, favourites, difficulty preference,
+  and review schedule are stored in app-private storage and optionally in
+  local device backups only if you create them from inside the app and share
+  them yourself.
+- **Question bank** — 75,911 MCQs across 9 subjects, stored encrypted on
+  your device.
 
 ## 4. Permissions
 
@@ -49,7 +52,7 @@ services**.
 ## 6. Data deletion
 
 Because all data stays on your device, you can delete everything the app
-knows by **uninstalling the app** (or via Android Settings → Apps → PPSC Quiz
+knows by **uninstalling the app** (or via Android Settings → Apps → PPSC Archives
 → Clear data). In-app "Reset progress" removes your quiz history. There is no
 server-side data to delete because none exists.
 
@@ -68,4 +71,5 @@ updated to match.
 
 ## 9. Contact
 
-Questions about this policy: `cinamullah@gmail`
+Questions about this policy: `[cinamullah@gmail]`
+
