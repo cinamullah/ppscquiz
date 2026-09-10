@@ -71,5 +71,5 @@ updated to match.
 
 ## 9. Contact
 
-Questions about this policy: `[cinamullah@gmail]`
+Questions about this policy: `[cinamullah@gmail.com]`
 
